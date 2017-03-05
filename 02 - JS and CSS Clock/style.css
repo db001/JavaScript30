@@ -50,3 +50,8 @@ body {
   width: 25%;
   left: 25%;
 }
+
+.second-hand {
+  background: red;
+  z-index: -1;
+}
